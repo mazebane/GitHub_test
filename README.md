@@ -1,7 +1,7 @@
 # GitHub_test
-A directory to test storing files for R in.
+A directory structure to test storing files in for RStudio.
 
-Each directory has a txt file named after the folder.
+Each directory has a txt file named after the folder, I couldn't find a way of creating an empty folder.
 
 Download the the repository as a zip file, then extract it to a location of your choice.
 

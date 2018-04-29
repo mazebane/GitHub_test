@@ -1,5 +1,5 @@
 # GitHub_test
-A test directory to test storing files for R in.
+A directory to test storing files for R in.
 
 Each directory has a txt file named after the folder.
 
